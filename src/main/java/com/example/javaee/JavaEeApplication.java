@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JavaEeApplication {
     /**
-     * good
+     * good2
      * @param args
      */
     public static void main(String[] args) {
